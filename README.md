@@ -6,7 +6,7 @@
 
 <br/>
 
-![Header](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&pause=1000&color=9333EA&center=true&vCenter=true&width=900&height=80&lines=%3E+INITIALIZING+SYSTEM...;%3E+DATA+LAYER+ACTIVE;%3E+BUILDING+THE+FUTURE)
+![Header](https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=40&pause=1000&color=9333EA&center=true&vCenter=true&width=900&height=80&lines=%3E+MACHINE+LEARNING...;%3E+LLMOPS;%3E+RAG+SYSTEMS;%20%3E+PROMPT%20STRATEGIES)
 
 <br/>
 
