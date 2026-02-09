@@ -31,7 +31,7 @@ I am a **Software Engineer** specializing in the synthesis of **Machine Learning
 
 | MODULE | TECH STACK OVERRIDE |
 | :--- | :--- |
-| **INTELLIGENCE** | `LangGraph` • `LangSmith` • `PyTorch` • `Prompting` • `RAG` |
+| **INTELLIGENCE** | `LangGraph` • `LangSmith` • `Prompting` • `RAG` |
 | **BACKBONE** | `Python` • `FastAPI` |
 | **DATABASE** | `MongoDB` • `PostgreSQL` |
 
@@ -48,6 +48,7 @@ I am a **Software Engineer** specializing in the synthesis of **Machine Learning
 | **[Smart Info Extractor](https://github.com/narmadha-17/Smart_Info_Extractor)** | 🟢 ACTIVE | `Automation` `AI` `OSINT` |
 | **[LLM Cost Tracker](https://github.com/narmadha-17/LLM-Tool-Cost-Tracker)** | 🟢 ACTIVE | `FinOps` `Monitoring` `FastAPI` |
 | **[Course Meta-System](https://github.com/narmadha-17/student_course_registration_system)** | 🔵 LEGACY | `Fullstack` `MERN` |
+| **[Automating Web-Intel](https://github.com/NarmadhaGanesan/Automating-Web-Intelligence)** | 🟢 ACTIVE | `Web Scrapping` `Tavily` `FatAPI` |
 
 </div>
 
