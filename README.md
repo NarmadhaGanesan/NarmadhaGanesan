@@ -1,78 +1,93 @@
 <div align="center">
 
-# ⚡ NARMADHA GANESAN
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Narmadha%20Ganesan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-### 「 SOFTWARE ENGINEER • AI ARCHITECT • TECH EVANGELIST 」
-
-<br/>
-
-![Header](https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=40&pause=1000&color=9333EA&center=true&vCenter=true&width=900&height=80&lines=%3E+MACHINE+LEARNING...;%3E+LLMOPS;%3E+RAG+SYSTEMS;%20%3E+PROMPT%20STRATEGIES)
-
-<br/>
-
-[ ![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/narmadha-g-794015228/)
-[ ![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white) ](mailto:narmadhaganesan1@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Intelligent+%26+Resilient+Systems;Machine+Learning+%7C+RAG+%7C+DevOps;Python+%7C+LLMs+%7C+MLOps;Turning+Ideas+into+Production-Grade+AI)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 🌑 THE USER PROFILE
+### About Me
 
-> "Translating caffeine into complex AI architectures and scalable backend solutions."
+> *"My mission is to build systems that aren't just intelligent, but also resilient and highly performant."*
 
-I am a **Software Engineer** specializing in the synthesis of **Machine Learning** and **Production-Grade Software**. My mission is to build systems that aren't just intelligent, but also resilient and highly performant.
+Machine Learning Engineer with a passion for taking AI from prototype to production. I care deeply about building systems that scale — clean pipelines, reliable inference, and architectures that hold up under pressure.
+
+- Currently deep-diving into **Retrieval-Augmented Generation (RAG)** and **DevOps for ML systems**
+- Obsessed with the intersection of **ML reliability** and **system performance**
+- Believer that great ML engineering is 20% model and 80% infrastructure
 
 ---
 
-### 🔮 THE TECH FORGE
+### Tech Stack
+
+**Core**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**LLMs & RAG**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Data & MLOps**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Currently Learning**
+
+![RAG](https://img.shields.io/badge/RAG_Systems-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+---
+
+### GitHub Stats
 
 <div align="center">
 
-| MODULE | TECH STACK OVERRIDE |
-| :--- | :--- |
-| **INTELLIGENCE** | `LangGraph` • `LangSmith` • `Prompting` • `RAG` |
-| **BACKBONE** | `Python` • `FastAPI` |
-| **DATABASE** | `MongoDB` • `PostgreSQL` |
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NarmadhaGanesan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarmadhaGanesan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=NarmadhaGanesan&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-### 🛰️ DEPLOYED REPOSITORIES
+### Currently Building Towards
+
+```python
+focus = {
+    "now":     ["RAG pipelines", "vector search", "DevOps for ML"],
+    "goal":    "production-grade AI systems that are fast, reliable, and explainable",
+    "mantra":  "intelligent + resilient + performant"
+}
+```
+
+---
+
+### Connect
 
 <div align="center">
 
-| PROJECT | STATUS | CLASSIFICATION |
-| :--- | :--- | :--- |
-| **[Smart Info Extractor](https://github.com/narmadha-17/Smart_Info_Extractor)** | 🟢 ACTIVE | `Automation` `AI` `OSINT` |
-| **[LLM Cost Tracker](https://github.com/narmadha-17/LLM-Tool-Cost-Tracker)** | 🟢 ACTIVE | `FinOps` `Monitoring` `FastAPI` |
-| **[Course Meta-System](https://github.com/narmadha-17/student_course_registration_system)** | 🔵 LEGACY | `Fullstack` `MERN` |
-| **[Automating Web-Intel](https://github.com/NarmadhaGanesan/Automating-Web-Intelligence)** | 🟢 ACTIVE | `Web Scrapping` `Tavily` `FatAPI` |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narmadha-g-794015228)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NarmadhaGanesan)
 
 </div>
 
----
-
-### 🌟 SYSTEM ACHIEVEMENTS
-
-- 🎖️ **BITSHACK '22 WINNER** — *Engineered the first-place solution.*
-- 📕 **PATENT FILED: ODOR ALERT** — *Patent-pending safety innovation using IoT & AI.*
-- 🏆 **JURY CHOICE AWARD** — *Recognized for research excellence and presentation.*
-- 🎓 **MENTORSHIP** — *Successfully translated technical knowledge to 50+ students.*
-
----
-
 <div align="center">
-
-### CONNECT TO THE GRID
-
-[ [LinkedIn](https://www.linkedin.com/in/narmadha-g-794015228/) ] • [ [GitHub](https://github.com/NarmadhaGanesan) ] • [ [Mail](mailto:narmadhaganesan1@gmail.com) ]
-
-<br/>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" width="60%" height="15" />
-
-*BUILDING THE FUTURE, ONE PACKET AT A TIME.*
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
