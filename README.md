@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Narmadha%20Ganesan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Narmadha%20Ganesan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI%20%26%20ML&descAlignY=55&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Intelligent+%26+Resilient+Systems;Machine+Learning+%7C+RAG+%7C+DevOps;Python+%7C+LLMs+%7C+MLOps;Turning+Ideas+into+Production-Grade+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+AI-Powered+APIs+%26+Agentic+Workflows;Python+%7C+FastAPI+%7C+LangGraph;LLM+Applications+%7C+RAG+Systems;Production-Ready+AI+for+Enterprise+Automation)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,43 +10,48 @@
 
 ### About Me
 
-> *"My mission is to build systems that aren't just intelligent, but also resilient and highly performant."*
+> *"Passionate about developing production-ready AI systems and enterprise automation solutions."*
 
-Machine Learning Engineer with a passion for taking AI from prototype to production. I care deeply about building systems that scale — clean pipelines, reliable inference, and architectures that hold up under pressure.
-
-- Currently deep-diving into **Retrieval-Augmented Generation (RAG)** and **DevOps for ML systems**
-- Obsessed with the intersection of **ML reliability** and **system performance**
-- Believer that great ML engineering is 20% model and 80% infrastructure
-
+- Currently building agentic workflows with **LangGraph** and debugging/tracing them with **LangSmith**
+- Focused on **LLM applications**, **RAG systems**, and **prompt engineering**
+- Experienced with **prompt engineering**.
 ---
 
 ### Tech Stack
 
-**Core**
+**Programming**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**LLMs & RAG**
+**Frameworks & Tools**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-**Data & MLOps**
+**AI/ML**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-EE4C2C?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LLM Applications](https://img.shields.io/badge/LLM_Applications-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![RAG Systems](https://img.shields.io/badge/RAG_Systems-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white)
 
-**Currently Learning**
+**Databases**
 
-![RAG](https://img.shields.io/badge/RAG_Systems-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Concepts**
+
+![Asynchronous Processing](https://img.shields.io/badge/Async_Processing-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Model Validation](https://img.shields.io/badge/Model_Validation-EE4C2C?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+**Other**
+
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Batch Processing](https://img.shields.io/badge/Batch_Processing-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![API Integration](https://img.shields.io/badge/API_Integration-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
@@ -71,7 +76,7 @@ Machine Learning Engineer with a passion for taking AI from prototype to product
 
 ```python
 focus = {
-    "now":     ["RAG pipelines", "vector search", "DevOps for ML"],
+    "now":     ["agentic workflows", "RAG systems", "AI-powered APIs"],
     "goal":    "production-grade AI systems that are fast, reliable, and explainable",
     "mantra":  "intelligent + resilient + performant"
 }
