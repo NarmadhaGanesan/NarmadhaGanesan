@@ -1,98 +1,62 @@
-<div align="center">
+# Narmadha Ganesan
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Narmadha%20Ganesan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI%20%26%20ML&descAlignY=55&descSize=18" width="100%"/>
+**Software Engineer | AI/ML Application Development**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+AI-Powered+APIs+%26+Agentic+Workflows;Python+%7C+FastAPI+%7C+LangGraph;LLM+Applications+%7C+RAG+Systems;Production-Ready+AI+for+Enterprise+Automation)](https://git.io/typing-svg)
+I build practical, production-oriented AI applications using Python, FastAPI, LangGraph, RAG, and large language models. My work focuses on intelligent automation, retrieval systems, observability, and data-driven tooling.
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narmadha-g-794015228)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NarmadhaGanesan)
 
----
+## Areas of Expertise
 
-### About Me
+- Generative AI and LLM application development
+- Retrieval-Augmented Generation (RAG)
+- Agentic workflows and tool-calling systems
+- AI API development with Python and FastAPI
+- Prompt engineering and model evaluation
+- Web intelligence and asynchronous data processing
+- MongoDB and full-stack application development
 
-> *"Passionate about developing production-ready AI systems and enterprise automation solutions."*
+## Technology Stack
 
-- Currently building agentic workflows with **LangGraph** and debugging/tracing them with **LangSmith**
-- Focused on **LLM applications**, **RAG systems**, and **prompt engineering**
-- Experienced with **prompt engineering**.
----
+**Languages & Frameworks**
 
-### Tech Stack
+`Python` `FastAPI` `LangGraph` `LangSmith` `JavaScript` `TypeScript` `React` `Node.js`
 
-**Programming**
+**AI & Data**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+`LLMs` `RAG` `Prompt Engineering` `Machine Learning` `MongoDB` `Web Scraping`
 
-**Frameworks & Tools**
+**Tools & Practices**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+`Git` `GitHub` `REST APIs` `Batch Processing` `Async Processing` `Model Evaluation`
 
-**AI/ML**
+## Featured Projects
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-EE4C2C?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LLM Applications](https://img.shields.io/badge/LLM_Applications-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![RAG Systems](https://img.shields.io/badge/RAG_Systems-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white)
+| Project | Description | Stack |
+|---|---|---|
+| [AutoChunk-AI](https://github.com/NarmadhaGanesan/AutoChunk-AI) | Automatically selects hierarchical or recursive document chunking, with AI-assisted handling of ambiguous cases. | Python, LLMs |
+| [Grafana-Dashboard-Assistant](https://github.com/NarmadhaGanesan/Grafana-Dashboard-Assistant) | An LLM-powered assistant that identifies the appropriate Grafana dashboard and creates a pre-scoped link. | Python, LLMs, Grafana, Google Chat |
+| [Scrapient](https://github.com/NarmadhaGanesan/Scrapient) | AI-powered web intelligence agent for crawling, collecting, and summarizing information across the web. | Python, AI Agents |
+| [LangGraph-RAG-Agent](https://github.com/NarmadhaGanesan/LangGraph-RAG-Agent) | Conversational RAG system built with LangGraph. | LangGraph, Python, RAG |
+| [LLM-Tool-Cost-Tracker](https://github.com/NarmadhaGanesan/LLM-Tool-Cost-Tracker) | Tracks, calculates, and visualizes usage costs for LLM tools and APIs. | Python, Visualization |
+| [audio_transcription_app](https://github.com/NarmadhaGanesan/audio_transcription_app) | Full-stack audio transcription application using the OpenAI Whisper API. | TypeScript, OpenAI Whisper |
 
-**Databases**
+## Current Focus
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- Building reliable and observable agentic workflows
+- Improving retrieval quality and document chunking strategies
+- Designing scalable RAG architectures
+- Developing production-ready AI APIs
+- Exploring explainable and cost-efficient AI systems
 
-**Concepts**
+## GitHub Activity
 
-![Asynchronous Processing](https://img.shields.io/badge/Async_Processing-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Model Validation](https://img.shields.io/badge/Model_Validation-EE4C2C?style=for-the-badge&logo=scikitlearn&logoColor=white)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NarmadhaGanesan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarmadhaGanesan&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
+</p>
 
-**Other**
+## Connect
 
-![Web Scraping](https://img.shields.io/badge/Web_Scraping-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![Batch Processing](https://img.shields.io/badge/Batch_Processing-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![API Integration](https://img.shields.io/badge/API_Integration-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NarmadhaGanesan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarmadhaGanesan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=NarmadhaGanesan&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
-
-</div>
-
----
-
-### Currently Building Towards
-
-```python
-focus = {
-    "now":     ["agentic workflows", "RAG systems", "AI-powered APIs"],
-    "goal":    "production-grade AI systems that are fast, reliable, and explainable",
-    "mantra":  "intelligent + resilient + performant"
-}
-```
-
----
-
-### Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narmadha-g-794015228)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NarmadhaGanesan)
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
+Open to opportunities and discussions involving AI engineering, LLM applications, RAG systems, and intelligent automation.
