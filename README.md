@@ -1,7 +1,7 @@
 <!-- ════════════════════════════════  HEADER  ════════════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6D28D9,100:A855F7&height=230&section=header&text=Narmadha%20Ganesan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=I%20teach%20LLMs%20to%20read%20documents%2C%20compare%20contracts%20%26%20count%20their%20own%20cost&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6D28D9,100:A855F7&height=230&section=header&text=Narmadha%20Ganesan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=I%20teach%20LLMs%20to%20read%20documents%2C%20compare%20contracts%20and%20count%20their%20own%20cost&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=760&lines=%3E+messy+PDF+in%2C+clean+JSON+out.;%3E+two+documents+in%2C+one+honest+diff+out.;%3E+40%2B+models+priced%2C+audited+every+week.;%3E+one+API.+OpenAI+%E2%80%A2+Anthropic+%E2%80%A2+Gemini.;%3E+agents+that+know+when+to+hand+off+to+a+human." alt="Typing SVG"/>
@@ -45,6 +45,7 @@ narmadha@workhall:~$ ./status --now
     "superpower": "turning unstructured chaos into validated JSON",
     "favourite_question": "does retrieval actually make this answer better?",
     "pet_peeve": "a model that confidently invents a field that isn't in the document",
+    "weekly_ritual": "auditing LLM prices — because cached tokens lie",
     "unpopular_opinion": "not every problem needs RAG",
     "off_screen": "on stage with a mic — hackathons, paper presentations, conferences",
     "confidence": 0.97
