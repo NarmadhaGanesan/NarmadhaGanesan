@@ -181,7 +181,10 @@ A fully asynchronous service that searches, scrapes and structures web data in r
 ## ✍️ &nbsp;Latest from My Medium
 
 <!-- BLOG-POST-LIST:START -->
-- [Rethinking RAG: When Retrieval Helps and When It Hurts](https://medium.com/@narmadhaganesan1)
+- [What If AI Could Review Your Code, Fix Bugs, and Prepare It for Release?](https://medium.com/data-science-collective/what-if-ai-could-review-your-code-fix-bugs-and-prepare-it-for-release-e61e6c05e382?source=rss-7c4c0dde2958------2)
+- [How I Built a Python Tool to Recommend the Right Chunking Strategy for RAG](https://generativeai.pub/how-i-built-a-python-tool-to-recommend-the-right-chunking-strategy-for-rag-a10729fdda73?source=rss-7c4c0dde2958------2)
+- [From Happy Paths to Failures: How I Learned to Write Better Pytest Unit Tests](https://medium.com/codex/from-happy-paths-to-failures-how-i-learned-to-write-better-pytest-unit-tests-cdf77db32c4b?source=rss-7c4c0dde2958------2)
+- [Prompt Engineering Patterns Every AI Developer Should Know &lpar;With Practical Examples&rpar;](https://medium.com/codex/prompt-engineering-patterns-every-ai-developer-should-know-with-practical-examples-ca19f3535818?source=rss-7c4c0dde2958------2)
 <!-- BLOG-POST-LIST:END -->
 
 <sub>↻ auto-updated from my Medium feed</sub>
