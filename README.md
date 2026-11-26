@@ -168,7 +168,7 @@ A fully asynchronous service that searches, scrapes and structures web data in r
 2024 ──●── ML Engineer Trainee @ Workhall
        │     first agentic workflows wired into business automation
        │
-2025 ──●── Associate Software Engineer @ Workhall · graduated, CGPA 8.52
+2025 ──●── Associate Software Engineer @ Workhall
        │     extraction pipelines · FastAPI services · LangSmith tracing
        │
 2026 ──●── Agent Studio · ContextIQ · LLM Cost Tracker · Web Intel
